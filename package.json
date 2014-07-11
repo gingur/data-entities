@@ -3,10 +3,12 @@
     "author": "gingur",
     "version": "0.0.1",
     "repository": {
-        "url": "https://github.com/gingur/data-entities.git"
+        "type": "git",
+        "url": "https://github.com/gingur/data-entities"
     },
-    "main": "./",
+    "main": "index.js",
     "engines": {
         "node": "*"
-    }
+    },
+    "license": "MIT"
 }
